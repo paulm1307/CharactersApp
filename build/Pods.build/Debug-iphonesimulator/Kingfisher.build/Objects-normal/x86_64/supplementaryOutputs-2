@@ -1,0 +1,40 @@
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/Image.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.swiftdeps"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/GraphicsContext.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Utility/ExtensionHelpers.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ExtensionHelpers.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ExtensionHelpers.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ExtensionHelpers.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ExtensionHelpers.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/ImageBinder.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Cache/DiskStorage.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/DiskStorage.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/DiskStorage.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/DiskStorage.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/DiskStorage.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/GIFAnimatedImage.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/Filter.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Filter.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Filter.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Filter.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Filter.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.o"

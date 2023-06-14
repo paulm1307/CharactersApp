@@ -1,0 +1,35 @@
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Networking/RedirectHandler.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Cache/MemoryStorage.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.o"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/KingfisherOptionsInfo.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.swiftdeps"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/KingfisherManager.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/Placeholder.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.o"

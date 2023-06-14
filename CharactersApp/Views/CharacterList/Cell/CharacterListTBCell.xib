@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="CharacterListTBCell" id="W15-ZR-bK7" customClass="CharacterListTBCell" customModule="CharactersApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="47.333332061767578"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="W15-ZR-bK7" id="ag1-TJ-whg">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="47.333332061767578"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N2d-d0-VU4">
+                        <rect key="frame" x="16" y="9.9999999999999982" width="361" height="27.333333333333329"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                        <color key="textColor" systemColor="systemTeal"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="N2d-d0-VU4" firstAttribute="top" secondItem="ag1-TJ-whg" secondAttribute="top" constant="10" id="C1k-W4-UbD"/>
+                    <constraint firstAttribute="trailing" secondItem="N2d-d0-VU4" secondAttribute="trailing" constant="16" id="ISI-qf-ydR"/>
+                    <constraint firstAttribute="bottom" secondItem="N2d-d0-VU4" secondAttribute="bottom" constant="10" id="YAJ-wn-72a"/>
+                    <constraint firstItem="N2d-d0-VU4" firstAttribute="leading" secondItem="ag1-TJ-whg" secondAttribute="leading" constant="16" id="fF8-xY-ADo"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="title" destination="N2d-d0-VU4" id="G2t-yG-qwg"/>
+            </connections>
+            <point key="canvasLocation" x="106" y="44"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemTeal">
+            <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

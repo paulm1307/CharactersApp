@@ -1,0 +1,35 @@
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/ImageSource/Source.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Source.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Source.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Source.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Source.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Utility/SizeExtensions.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SizeExtensions.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SizeExtensions.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SizeExtensions.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SizeExtensions.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/WKInterfaceImage+Kingfisher.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/WKInterfaceImage+Kingfisher.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/WKInterfaceImage+Kingfisher.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/WKInterfaceImage+Kingfisher.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Cache/Storage.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Storage.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Storage.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Storage.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Storage.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Utility/String+MD5.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/String+MD5.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/String+MD5.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/String+MD5.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/String+MD5.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/UIButton+Kingfisher.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/UIButton+Kingfisher.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/UIButton+Kingfisher.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/UIButton+Kingfisher.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/TVMonogramView+Kingfisher.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/TVMonogramView+Kingfisher.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/TVMonogramView+Kingfisher.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/TVMonogramView+Kingfisher.dia"

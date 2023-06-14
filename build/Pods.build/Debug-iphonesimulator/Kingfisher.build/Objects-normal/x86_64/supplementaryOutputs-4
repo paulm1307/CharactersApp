@@ -1,0 +1,40 @@
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageView+Kingfisher.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageView+Kingfisher.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageView+Kingfisher.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageView+Kingfisher.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/ImageProgressive.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProgressive.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProgressive.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProgressive.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProgressive.d"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Networking/ImagePrefetcher.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImagePrefetcher.swiftdeps"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImagePrefetcher.o"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImagePrefetcher.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImagePrefetcher.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/ImageProcessor.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProcessor.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProcessor.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProcessor.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageProcessor.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Networking/ImageModifier.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageModifier.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageModifier.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageModifier.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageModifier.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Image/ImageTransition.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageTransition.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageTransition.swiftdeps"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageTransition.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageTransition.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/Views/Indicator.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Indicator.o"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Indicator.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Indicator.dia"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Indicator.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/KF.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.o"

@@ -1,0 +1,40 @@
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/KFImage.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.o"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.swiftdeps"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/KFImageOptions.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/KFOptionsSetter.swift":
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFOptionsSetter.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFOptionsSetter.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFOptionsSetter.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFOptionsSetter.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift":
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.swiftdeps"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.d"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.o"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/Kingfisher.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Kingfisher.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Kingfisher.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Kingfisher.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Kingfisher.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/General/KingfisherError.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherError.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherError.swiftdeps"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherError.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherError.dia"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift":
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageProtocol.d"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageProtocol.dia"
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageProtocol.o"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageProtocol.swiftdeps"
+"/Users/consultant/Desktop/CharactersApp/Pods/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift":
+  object: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageRenderer.o"
+  diagnostics: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageRenderer.dia"
+  dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageRenderer.d"
+  swift-dependencies: "/Users/consultant/Desktop/CharactersApp/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageRenderer.swiftdeps"
