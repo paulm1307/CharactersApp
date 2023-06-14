@@ -18,6 +18,7 @@ class CharacterListViewController: UIViewController {
     private var originalList: [CharacterModel] = []
     
     private var cancellables = Set<AnyCancellable>()
+    private var searchCancellable: AnyCancellable?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,6 +27,23 @@ class CharacterListViewController: UIViewController {
         self.viewModel.fetchData()
         self.configureTableView()
         self.configureBinding()
+        
+        // Assign the delegate to the search bar
+        searchBar.delegate = self
+        
+        // Subscribe to the search bar's text publisher
+        searchCancellable = NotificationCenter.default
+            .publisher(for: UISearchTextField.textDidChangeNotification, object: searchBar.searchTextField)
+            .map { ($0.object as? UISearchTextField)?.text ?? "" }
+            .sink { [weak self] searchText in
+                self?.filterCharacterList(searchText)
+            }
+    }
+    
+    // Don't forget to cancel the Combine subscription
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        searchCancellable?.cancel()
     }
     
     func configureTableView() {
@@ -64,9 +82,7 @@ class CharacterListViewController: UIViewController {
 
 extension CharacterListViewController: UISearchBarDelegate {
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
-        characterList = self.characterList.filter { $0.Text.lowercased().contains(searchText.lowercased()) }
-        
-        tableview.reloadData()
+        filterCharacterList(searchText)
     }
     
     func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
@@ -78,6 +94,19 @@ extension CharacterListViewController: UISearchBarDelegate {
     
     func searchBarSearchButtonClicked(_ searchBar: UISearchBar) {
         searchBar.resignFirstResponder()
+    }
+    
+    // Helper method to filter the character list based on the search text
+    private func filterCharacterList(_ searchText: String) {
+        guard !searchText.isEmpty else {
+            characterList = originalList
+            tableview.reloadData()
+            return
+        }
+        
+        let filteredCharacters = originalList.filter { $0.Text.lowercased().contains(searchText.lowercased()) }
+        characterList = filteredCharacters
+        tableview.reloadData()
     }
 }
 
